@@ -1,6 +1,6 @@
 # Dentist-Appointment-System
 ## This repository contains my first C programming project: a Dentist Appointment Management System.
-This is a fully console-based project designed for beginners but implemented with clean structure and real-clinic logic.
+## This is a fully console-based project designed for beginners but implemented with clean structure and real-clinic logic.
 
 **Dentists in the System**
 
@@ -8,7 +8,7 @@ __The system includes two dentists, each with clear specialization:__
 
 1️⃣ **Dr. Rahman – General Dentist**
 
-__Handles:__
+_Handles:_
 
 Regular checkups
 
@@ -22,7 +22,7 @@ Working hours: 10 AM – 10 PM
 
 2️⃣**Dr. Karim – Oral Surgeon**
 
-__Handles:__
+_Handles:_
 
 Tooth extraction
 
@@ -34,7 +34,7 @@ Working hours: 3 PM – 8 PM
 
  **Login System**
 
-__Before accessing the main system, the user must log in:__
+_Before accessing the main system, the user must log in:_
 
 Username: Paromita
 
@@ -68,7 +68,7 @@ Searches by patient name and shows full details.
 
 ✔ Edit Appointment
 
-Allows updating:
+_Allows updating:_
 
 Name
 
@@ -77,6 +77,7 @@ Date
 Time
 
 Dentist
+
 Also checks for time conflicts.
 
 ✔ Delete Appointment
@@ -102,6 +103,7 @@ Automatically created and updated.
 Stores all appointments even after program exits.
 
 **How to Compile and Run**
+
 Using GCC (Linux / Windows Terminal):
 
 gcc main.c -o clinic
@@ -120,9 +122,6 @@ DentistAppointmentSystem/
 │── clinic_data.txt   (auto generated)
 └── README.md
 
-**Compile & Run**
-gcc main.c -o clinic
-./clinic
 
 **Screenshots**
 
