@@ -1,5 +1,5 @@
 # Dentist-Appointment-System
-##This repository contains my first C programming project: a Dentist Appointment Management System.
+## This repository contains my first C programming project: a Dentist Appointment Management System.
 This is a fully console-based project designed for beginners but implemented with clean structure and real-clinic logic.
 
 **Dentists in the System**
