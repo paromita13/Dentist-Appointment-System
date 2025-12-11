@@ -41,7 +41,7 @@ Password: 1234
 
 If either is incorrect, the program exits.
 
-**Features**
+### Features
 
 ✔ Add Appointment
 
@@ -93,7 +93,7 @@ _Allows updating:_
 
 name|date|time|doctor
 
-**Files Used**
+### Files Used
 
 clinic_data.txt
 
@@ -101,7 +101,7 @@ Automatically created and updated.
 
 Stores all appointments even after program exits.
 
-**How to Compile and Run**
+### How to Compile and Run
 
 -Using GCC (Linux / Windows Terminal):
 
@@ -114,7 +114,7 @@ __Using CodeBlocks / Dev-C++:__
 
 -Click Build & Run
 
- **Project Structure**
+ ### Project Structure
 
 DentistAppointmentSystem/
 
@@ -125,7 +125,7 @@ DentistAppointmentSystem/
 └── README.md
 
 
-**Screenshots**
+### Screenshots
 
 __Login Page,Main Menu,Add Appointment__
 <img width="1483" height="762" alt="Screenshot 2025-12-11 021722" src="https://github.com/user-attachments/assets/4e9fbfac-351e-4509-b286-170a2c6270f0" />
@@ -140,7 +140,7 @@ __Edit/Delete Screens,Sort Appointments,Exit__
 <img width="1483" height="762" alt="Screenshot 2025-12-11 022217" src="https://github.com/user-attachments/assets/bd459ae1-dc7a-4fec-a2b4-d70ed2034210" />
 
 
- **Concepts Used**
+ ### Concepts Used
 
 - _Structures_ (struct)
 
@@ -154,7 +154,7 @@ __Edit/Delete Screens,Sort Appointments,Exit__
 
 - _Sorting + searching_
 
- **Future Improvements**
+ ### Future Improvements
 
 - Patient history
 
