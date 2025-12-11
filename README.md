@@ -119,7 +119,9 @@ Click Build & Run
 DentistAppointmentSystem/
 
 │── main.c
+
 │── clinic_data.txt   (auto generated)
+
 └── README.md
 
 
