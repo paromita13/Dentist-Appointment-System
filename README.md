@@ -9,27 +9,27 @@ __The system includes two dentists, each with clear specialization:__
 
 _Handles:_
 
-Regular checkups
+-Regular checkups
 
-Scaling and polishing
+-Scaling and polishing
 
-Cavity fillings
+-Cavity fillings
 
-Basic dental treatments
+-Basic dental treatments
 
-Working hours: 10 AM – 10 PM
+-Working hours: 10 AM – 10 PM
 
 2️⃣**Dr. Karim – Oral Surgeon**
 
 _Handles:_
 
-Tooth extraction
+-Tooth extraction
 
-Minor oral surgery
+-Minor oral surgery
 
-Implant consultation
+-Implant consultation
 
-Working hours: 3 PM – 8 PM
+-Working hours: 3 PM – 8 PM
 
  **Login System**
 
@@ -45,9 +45,9 @@ If either is incorrect, the program exits.
 
 ✔ Add Appointment
 
-Takes patient name, date, time, and doctor selection.
+-Takes patient name, date, time, and doctor selection.
 
-Rejects duplicate time slots.
+-Rejects duplicate time slots.
 
 ✔ View Appointments
 
@@ -69,27 +69,27 @@ _Displays:_
 
 _Allows updating:_
 
-Name
+-Name
 
-Date
+-Date
 
-Time
+-Time
 
-Dentist
+-Dentist
 
-Also checks for time conflicts.
+-Also checks for time conflicts.
 
 ✔ Delete Appointment
 
-Removes selected appointment and shifts the list.
+-Removes selected appointment and shifts the list.
 
 ✔ Sort Appointments by Date
 
-Sorts in ascending order and saves to file.
+-Sorts in ascending order and saves to file.
 
 ✔ Automatic File Saving
 
-Appointments are stored in clinic_data.txt using:
+-Appointments are stored in clinic_data.txt using:
 
 name|date|time|doctor
 
@@ -103,16 +103,16 @@ Stores all appointments even after program exits.
 
 **How to Compile and Run**
 
-Using GCC (Linux / Windows Terminal):
+-Using GCC (Linux / Windows Terminal):
 
 gcc main.c -o clinic
 ./clinic
 
 __Using CodeBlocks / Dev-C++:__
 
-Open the file
+-Open the file
 
-Click Build & Run
+-Click Build & Run
 
  **Project Structure**
 
