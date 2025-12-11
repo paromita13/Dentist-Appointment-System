@@ -43,13 +43,13 @@ If either is incorrect, the program exits.
 
 ### Features
 
-✔ Add Appointment
+✔ __Add Appointment__
 
 -Takes patient name, date, time, and doctor selection.
 
 -Rejects duplicate time slots.
 
-✔ View Appointments
+✔ __View Appointments__
 
 _Displays:_
 
@@ -61,11 +61,11 @@ _Displays:_
 
 -Dentist selected
 
-✔ Search Appointment
+✔ __Search Appointment__
 
 -Searches by patient name and shows full details.
 
-✔ Edit Appointment
+✔ __Edit Appointment__
 
 _Allows updating:_
 
@@ -79,15 +79,15 @@ _Allows updating:_
 
 -Also checks for time conflicts.
 
-✔ Delete Appointment
+✔ __Delete Appointment__
 
 -Removes selected appointment and shifts the list.
 
-✔ Sort Appointments by Date
+✔ __Sort Appointments by Date__
 
 -Sorts in ascending order and saves to file.
 
-✔ Automatic File Saving
+✔ __Automatic File Saving__
 
 -Appointments are stored in clinic_data.txt using:
 
