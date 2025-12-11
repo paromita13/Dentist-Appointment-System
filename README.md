@@ -51,19 +51,19 @@ Rejects duplicate time slots.
 
 ✔ View Appointments
 
-Displays:
+_Displays:_
 
-Patient name
+-Patient name
 
-Appointment date
+-Appointment date
 
-Time
+-Time
 
-Dentist selected
+-Dentist selected
 
 ✔ Search Appointment
 
-Searches by patient name and shows full details.
+-Searches by patient name and shows full details.
 
 ✔ Edit Appointment
 
@@ -91,7 +91,7 @@ Sorts in ascending order and saves to file.
 
 Appointments are stored in clinic_data.txt using:
 
-name;date;time;doctor
+name|date|time|doctor
 
 **Files Used**
 
