@@ -91,7 +91,7 @@ Sorts in ascending order and saves to file.
 
 Appointments are stored in clinic_data.txt using:
 
-name|date|time|doctor
+name;date;time;doctor
 
 **Files Used**
 
@@ -142,24 +142,24 @@ __Edit/Delete Screens,Sort Appointments,Exit__
 
  **Concepts Used**
 
-Structures (struct)
+- _Structures_ (struct)
 
-Arrays
+- _Arrays_
 
-String handling
+- _String handling_
 
-File I/O
+- _File I/O_
 
-Menu-driven program
+- _Menu-driven program_
 
-Sorting + searching
+- _Sorting + searching_
 
  **Future Improvements**
 
-Patient history
+- Patient history
 
-Emergency appointment mode
+- Emergency appointment mode
 
-Show free time slots automatically
+- Show free time slots automatically
 
 
