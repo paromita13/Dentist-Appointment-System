@@ -20,12 +20,12 @@ char *doctors[] =
     "Dr. Karim - Oral Surgeon (Extraction, Surgery, Implants) (3pm - 8pm)"
 };
 
-void swap(Appointment *a, Appointment *b)
-{
-    Appointment temp = *a;
-    *a = *b;
-    *b = temp;
-}
+//void swap(Appointment *a, Appointment *b)
+//{
+    //Appointment temp = *a;
+   // *a = *b;
+   // *b = temp;
+//}
 
 void saveToFile()
 {
@@ -356,3 +356,4 @@ int main()
         }
     }
 }
+
